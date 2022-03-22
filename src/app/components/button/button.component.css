@@ -1,0 +1,15 @@
+.redBTN {
+  color: white;
+  background-color: rgb(199, 55, 55);
+  padding: 20px 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.blueBTN {
+  color: white;
+  background-color: rgb(76, 55, 199);
+  padding: 20px 12px;
+  border: none;
+  cursor: pointer;
+}
